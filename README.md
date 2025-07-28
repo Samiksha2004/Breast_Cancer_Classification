@@ -83,10 +83,3 @@ Evaluating multiple models helps identify the **trade-off between performance an
 - Strong correlation between tumor radius and malignancy
 - Random Forest performed best with minimal tuning
 
----
-
-## Future Improvements
-
-- Apply **hyperparameter tuning**.
-- Add **ROC curves** and **confusion matrices** for deeper evaluation.
-
